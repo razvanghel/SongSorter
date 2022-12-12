@@ -1,0 +1,1 @@
+String ARTISTS_PATH = 'YOUR\\PATH\\HERE';
