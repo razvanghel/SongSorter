@@ -1,0 +1,10 @@
+
+
+enum EnumOption{
+
+  DEFAULT,
+  SKIP,
+  SKIP_ALL,
+  OVERWRITE,
+  OVERWRITE_ALL
+}
